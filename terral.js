@@ -58,5 +58,6 @@ function gerarXSS(){
   }
 
 function alerta(){
+    document.body.style.background = '#ef2525';
     alert("Pagina vulneravel a XSS ,info :  https://owasp.org/www-community/attacks/xss/" );
 }
