@@ -58,5 +58,5 @@ function gerarXSS(){
   }
 
 function alerta(){
-    alert("PÃ¡gina vulnerÃ¡vel a XSS ,info :  https://owasp.org/www-community/attacks/xss/" );
+    alert("Pagina vulneravel a XSS ,info :  https://owasp.org/www-community/attacks/xss/" );
 }
